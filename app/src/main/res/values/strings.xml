@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TUGAS</string>
+    <string name="labelapp">PENDAFTARAN</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="Tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="jns">Jenis Kelamin</string>
+    <string name="as">Telepon</string>
+    <string name="ad">Email</string>
+    <string name="aa">Masukkan Password Kembali</string>
+</resources>
